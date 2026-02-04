@@ -1,6 +1,6 @@
 VTM-16.2-Optimization-05-TZS-AME-Jumps
 
-VTM 16.2 - Ramiro - Otimização Inter-Quadros - Teste Sempre Pula TZS e AME
+VTM 16.2 - Ramiro - Inter-Frame Optimization - Always Skip TZS and AME Test
 ==============================
 
 This software package is the reference software for Rec. ITU-T H.266 | ISO/IEC 23090-3 Versatile Video Coding (VVC). The reference software includes both encoder and decoder functionality.
